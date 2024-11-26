@@ -14,7 +14,7 @@ import math
 
 import math
 
-from Backbone.FirstStagenet import FirstStagenet_FE
+#from Backbone.FirstStagenet import FirstStagenet_FE
 from Utils.modules import Upsample
 from Utils.modules import BasicPreActBlock
 from Utils.modules import normer
